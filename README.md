@@ -17,7 +17,7 @@ Here is a list of common issues in Perforce
 
 If you are not logged into a workspace, Unreal will sometimes say source control is connected but it is not conected to any or the correct workspace.  Go to P4V and if you see that there is no workspace log into on.
 
-![alt_text](images/noValidWorksspaceP4v.jpg)
+![alt_text](images/noValidWorksspaceP4v.png)
 
 ![](images/line2.png)
 
