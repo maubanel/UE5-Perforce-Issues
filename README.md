@@ -2,11 +2,9 @@
 
 ### UP5 Perforce Issues
 
-<sub>[previous]() • [home](README.md#user-content-ue4-lighting) • [next]()</sub>
-
 ![](images/line3.png)
 
-Here is a list of common issues in Perforce
+Here is a list of common issues when using Perforce and Unreal Engine 5
 
 <br>
 
