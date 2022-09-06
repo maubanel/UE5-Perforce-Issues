@@ -39,7 +39,7 @@ Now you should see valid information.  Also confirm that your **Host** (in P4V |
 
 If you can't loginto your workspace on a given computer you need to make sure that the host is correclty set up.  Compate the **Host** in (P4V | Advanced) with the **P4 Host** listed when running `p4 info` in command line. If your command line is wrong, you can reset your host by typing `p4 set P4HOST=HOSTNAME` or reset the host name in P4V.
 
-![p4 host](images/.jpg)
+![p4 host](images/CorrectWorkspace.png)
 
 ![](images/line2.png)
 
