@@ -29,7 +29,7 @@ To connect to the server you need to type `p4 set P4PORT=ssl:helixcore.cct.lsu.e
 
 ![p4 set port](images/p4PortSet.jpg)
 
-Now you should see valid information.  Also confirm that your **Host** (in P4V | Advanced) is the same as the host on your computer using command line (p4 info) 
+Now you should see valid information.  Also confirm that your **Host** (in P4V | Advanced) is the same as the host on your computer using command line (p4 info) listed as your **P4 Host**.  If your command line is wrong, you can reset your host by typing `p4 set P4HOST=HOSTNAME`.
 
 ![p4 host](images/CorrectWorkspace.png)
 
