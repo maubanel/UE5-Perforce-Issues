@@ -21,7 +21,11 @@ If you are not logged into a workspace, Unreal will sometimes say source control
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+If you are logged into **P4V** but Unreal is not able to log into perforce.  Make sure that the command line perforce sees that you are registered to a valid port.  Open up **Command Prompt** and make sure that you can connect to the perforce server by typing `p4 info`
+
+![p4 port failure](images/p4PortFailure.png)
+
+
 
 ![](images/line2.png)
 
