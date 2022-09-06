@@ -27,7 +27,7 @@ If you are logged into **P4V** but Unreal is not able to log into perforce.  Mak
 
 To connect to the server you need to type `p4 set P4PORT=ssl:helixcore.cct.lsu.edu`.
 
-![p4 set port](images/p4PortSet.jpg)
+![p4 set port](images/p4PortSet.png)
 
 Now you should see valid information.  Also confirm that your **Host** (in P4V | Advanced) is the same as the host on your computer using command line (p4 info) listed as your **P4 Host**.  If your command line is wrong, you can reset your host by typing `p4 set P4HOST=HOSTNAME`.
 
@@ -37,7 +37,9 @@ Now you should see valid information.  Also confirm that your **Host** (in P4V |
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+If you can't loginto your workspace on a given computer you need to make sure that the host is correclty set up.  Compate the **Host** in (P4V | Advanced) with the **P4 Host** listed when running `p4 info` in command line. If your command line is wrong, you can reset your host by typing `p4 set P4HOST=HOSTNAME` or reset the host name in P4V.
+
+![p4 host](images/.jpg)
 
 ![](images/line2.png)
 
