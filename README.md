@@ -21,11 +21,17 @@ If you are not logged into a workspace, Unreal will sometimes say source control
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-If you are logged into **P4V** but Unreal is not able to log into perforce.  Make sure that the command line perforce sees that you are registered to a valid port.  Open up **Command Prompt** and make sure that you can connect to the perforce server by typing `p4 info`
+If you are logged into **P4V** but Unreal is not able to log into perforce.  Make sure that the command line perforce sees that you are registered to a valid port.  Open up **Command Prompt** and make sure that you can connect to the perforce server by typing `p4 info`.  The example below returned a failure to connect.
 
 ![p4 port failure](images/p4PortFailure.png)
 
+To connect to the server you need to type `p4 set P4PORT=ssl:helixcore.cct.lsu.edu`.
 
+![p4 set port](images/p4PortSet.jpg)
+
+Now you should see valid information.  Also confirm that your **Host** (in P4V | Advanced) is the same as the host on your computer using command line (p4 info) 
+
+![p4 host](images/CorrectWorkspace.png)
 
 ![](images/line2.png)
 
