@@ -67,6 +67,8 @@ The **Perforce Server** is case insensitive so it will see `foo.txt` and `Foo.tx
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+When you quit Unreal make sure you clear your pending list in **P4V**.
+
 ![alt_text](images/.jpg)
 
 ![](images/line2.png)
