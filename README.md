@@ -53,6 +53,8 @@ Make sure at the end of every work session on any computer that you save all and
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
+You should not share **Workspaces** on more than one computer.  Each workspace is based on the machine name.  Also, this would be a sync issue if that other computer has files checked out with saved changes. If you cannot access the workspace because it is from another computer, you will need to create a new workspace. To creat a workspace go to the [Workspace Page](https://github.com/maubanel/p4v-unreal/blob/main/workspaces/README.md#user-content-workspaces-in-p4v).
+
 ![alt_text](images/.jpg)
 
 ![](images/line2.png)
