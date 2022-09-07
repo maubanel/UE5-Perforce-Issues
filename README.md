@@ -45,7 +45,7 @@ If you can't loginto your workspace on a given computer you need to make sure th
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Make sure at the end of every work session on any computer that you save all and submit changes from Unreal.  It is also very important to make sure that you have nothing left in your **Pending** list.  This means that it is checked out and will not be available on another computer. If you do have outstanding items you can press **Submit** in **P4V** and it will submit them and release them for use on your other computer.
+Make sure at the end of every work session on any computer that you save all and submit changes from Unreal.  It is also very important to make sure that you have nothing left in your **Pending** list.  This means that it is checked out and will not be available on another computer. Open up **P4V** and make sure your **Pending** list is empty (Open up the window in **View | Pending**. If you do have outstanding items you can press **Submit** in **P4V** and it will submit them and release them for use on your other computer.
 
 ![submit stale pending list items](images/addSubmit.png)
 
