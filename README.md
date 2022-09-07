@@ -61,7 +61,7 @@ You should not share **Workspaces** on more than one computer.  Each workspace i
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+The **Perforce Server** is case insensitive so it will see `foo.txt` and `Foo.txt` as the same file.  This is due to Unreal's recommendation to maintain compatibility with their tools. So do not use the same characters in the name of files in the same directory.
 
 ![](images/line2.png)
 
